@@ -1,6 +1,7 @@
 body{
     background-color:cornflowerblue;
     padding-left: 10px;
+    user-select: none;
 }
 .head h1{
     color:turquoise ;
